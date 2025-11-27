@@ -1,0 +1,13 @@
+{
+	"name": "tony-boost-2-space",
+	"version": "0.1.a",
+	"title": "Boost 2 Space",
+	"author": "Wikitony",
+	"dependencies": [
+		"base >= 2.0",
+		"? space-age >= 2.0"
+	],
+	"description": "Give a configurable boost to the early game, so that you can go straight to space in space age, or mega-baseing on vanilla",
+	"factorio_version": "2.0",
+	"homepage": "https://github.com/wikitony"
+}
